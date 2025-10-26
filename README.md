@@ -22,7 +22,7 @@ npm run dev
 
 Vite typically serves at http://localhost:5173.
 
-2) Backend (separate terminal)
+2) Backend (separate terminal) go to server file
 
 Install backend deps and start:
 ```powershell go to server file
