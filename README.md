@@ -16,7 +16,7 @@ npm install
 ```
 
 Start the dev frontend (Vite):
-```powershell
+```powershell 
 npm run dev
 ```
 
@@ -25,7 +25,7 @@ Vite typically serves at http://localhost:5173.
 2) Backend (separate terminal)
 
 Install backend deps and start:
-```powershell
+```powershell go to server file
 
 npm install
 npm start
