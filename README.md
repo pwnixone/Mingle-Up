@@ -1,6 +1,6 @@
 
 
-# SecureChat (local dev)
+# Mingle-Up 
 
 This is a Vite + React frontend with a small Express + SQLite backend (in `server/`).
 
@@ -12,7 +12,6 @@ Follow these commands in two separate terminals: one for the frontend and one fo
 
 Install dependencies (run once):
 ```powershell
-cd 'C:\Users\Rohan\OneDrive\Desktop\projects\secure-whisper-22'
 npm install
 ```
 
@@ -27,7 +26,7 @@ Vite typically serves at http://localhost:5173.
 
 Install backend deps and start:
 ```powershell
-cd 'C:\Users\Rohan\OneDrive\Desktop\projects\secure-whisper-22\server'
+
 npm install
 npm start
 ```
